@@ -8,11 +8,11 @@ O programa simula o monitoramento contínuo de **10 dispositivos** (sensores de 
 
 ## 📂 Estrutura do Projeto
 
-```
+```bash
 .
-├── Main.c #Código-fonte principal
-├── Alarmes.txt #Arquivo de log gerado em tempo de execução
-└── README.md #Documentação do Projeto
+├── Main.c # Código-fonte principal
+├── Alarmes.txt # Arquivo de log gerado em tempo de execução
+└── README.md # Documentação do Projeto
 ```
 
 
