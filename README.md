@@ -55,4 +55,4 @@ gcc main.c -o monitoramento
 - O log em `Alarmes.txt` é aberto em modo **append** (`"a"`), preservando registros anteriores entre execuções
 
 
-### ✍️ Autor: [@kuhnartur](https://github.com/kuhnartur)
+## ✍️ Autor: [@kuhnartur](https://github.com/kuhnartur)
